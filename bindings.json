@@ -1,0 +1,6 @@
+{
+  "AltShiftDown":"DuplicateLine",
+  "\u001bctrlback": "DeleteWordLeft",
+  "CtrlD": "DeleteLine",
+  "CtrlX": "Quit"
+}
