@@ -92,6 +92,15 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 alias ls='ls -lah'
+alias cdn='cd ~/Site/newscred/'
+alias cdmf='cd ~/Site/newscred/marketingplatform/'
+alias cdsd='cd ~/Site/newscred/support-dashboard/'
+alias cdps='cd ~/Site/newscred/publishing-service/'
+alias cdcs='cd ~/Site/newscred/channel-service'
+alias cdas='cd ~/Site/newscred/configuration-management/vagrant/assets-build/'
+alias cdww='cd ~/Site/newscred/website-widget/'
+alias cdenv='cd ~/env/'
+alias gp='git fetch && git pull'
 
 #custom functions
 function i() {
